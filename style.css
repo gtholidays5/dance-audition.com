@@ -1,0 +1,15 @@
+span{
+    background-color: aquamarine;
+}
+p{
+    text-align: center;
+    background-color: burlywood;
+}
+table{
+    background-color:gray;
+    color:rgb(0, 221, 233)
+}
+body{
+    background-color: darkolivegreen;
+    color: rgb(0, 0, 0);
+}
